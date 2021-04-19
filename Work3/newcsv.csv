@@ -1,0 +1,46 @@
+
+1618806244338,1027,HTTP Request,200,OK,Thread Group 1-1,text,true,,462,324,5,5,https://petstore.swagger.io/v2/store/order,1027,0,781
+1618806244540,915,HTTP Request,200,OK,Thread Group 1-2,text,true,,462,324,5,5,https://petstore.swagger.io/v2/store/order,915,0,690
+1618806245370,327,HTTP Request,200,OK,Thread Group 1-1,text,true,,449,169,5,5,https://petstore.swagger.io/v2/store/order/7,327,0,0
+1618806244740,958,HTTP Request,200,OK,Thread Group 1-3,text,true,,462,324,5,5,https://petstore.swagger.io/v2/store/order,958,0,711
+1618806245458,247,HTTP Request,200,OK,Thread Group 1-2,text,true,,449,169,5,5,https://petstore.swagger.io/v2/store/order/7,247,0,0
+1618806244941,982,HTTP Request,200,OK,Thread Group 1-4,text,true,,462,324,5,5,https://petstore.swagger.io/v2/store/order,981,0,758
+1618806245699,229,HTTP Request,200,OK,Thread Group 1-3,text,true,,449,169,5,5,https://petstore.swagger.io/v2/store/order/7,228,0,0
+1618806245708,229,HTTP Request,200,OK,Thread Group 1-2,text,false,"Value expected to match regexp '10', but it did not match: '9'",410,172,5,5,https://petstore.swagger.io/v2/store/inventory/,228,0,0
+1618806245699,247,HTTP Request,200,OK,Thread Group 1-1,text,false,"Value expected to match regexp '10', but it did not match: '9'",410,172,4,4,https://petstore.swagger.io/v2/store/inventory/,246,0,0
+1618806245926,319,HTTP Request,200,OK,Thread Group 1-4,text,true,,449,169,3,3,https://petstore.swagger.io/v2/store/order/7,319,0,0
+1618806245140,1108,HTTP Request,200,OK,Thread Group 1-5,text,true,,462,324,3,3,https://petstore.swagger.io/v2/store/order,1108,0,807
+1618806245930,319,HTTP Request,200,OK,Thread Group 1-3,text,false,"Value expected to match regexp '10', but it did not match: '9'",410,172,3,3,https://petstore.swagger.io/v2/store/inventory/,319,0,0
+1618806246249,224,HTTP Request,200,OK,Thread Group 1-5,text,true,,449,169,2,2,https://petstore.swagger.io/v2/store/order/7,224,0,0
+1618806246249,228,HTTP Request,200,OK,Thread Group 1-4,text,false,"Value expected to match regexp '10', but it did not match: '9'",410,172,2,2,https://petstore.swagger.io/v2/store/inventory/,228,0,0
+1618806246475,419,HTTP Request,200,OK,Thread Group 1-5,text,false,"Value expected to match regexp '10', but it did not match: '9'",410,172,1,1,https://petstore.swagger.io/v2/store/inventory/,419,0,0
+1618806281656,905,HTTP Request,200,OK,Thread Group 1-1,text,true,,462,324,5,5,https://petstore.swagger.io/v2/store/order,904,0,667
+1618806282565,213,HTTP Request,200,OK,Thread Group 1-1,text,true,,449,169,5,5,https://petstore.swagger.io/v2/store/order/7,212,0,0
+1618806281857,921,HTTP Request,200,OK,Thread Group 1-2,text,true,,462,324,5,5,https://petstore.swagger.io/v2/store/order,920,0,700
+1618806282780,239,HTTP Request,200,OK,Thread Group 1-1,text,false,"Value expected to match regexp '9', but it did not match: '6'",409,172,5,5,https://petstore.swagger.io/v2/store/inventory/,239,0,0
+1618806282780,246,HTTP Request,200,OK,Thread Group 1-2,text,true,,449,169,4,4,https://petstore.swagger.io/v2/store/order/7,245,0,0
+1618806282057,970,HTTP Request,200,OK,Thread Group 1-3,text,true,,462,324,4,4,https://petstore.swagger.io/v2/store/order,970,0,725
+1618806283027,221,HTTP Request,200,OK,Thread Group 1-2,text,false,"Value expected to match regexp '9', but it did not match: '6'",409,172,4,4,https://petstore.swagger.io/v2/store/inventory/,220,0,0
+1618806283030,229,HTTP Request,200,OK,Thread Group 1-3,text,true,,449,169,3,3,https://petstore.swagger.io/v2/store/order/7,228,0,0
+1618806282256,1009,HTTP Request,200,OK,Thread Group 1-4,text,true,,462,324,3,3,https://petstore.swagger.io/v2/store/order,1009,0,770
+1618806282457,1025,HTTP Request,200,OK,Thread Group 1-5,text,true,,462,324,3,3,https://petstore.swagger.io/v2/store/order,1025,0,808
+1618806283260,228,HTTP Request,200,OK,Thread Group 1-3,text,false,"Value expected to match regexp '9', but it did not match: '6'",409,172,3,3,https://petstore.swagger.io/v2/store/inventory/,227,0,0
+1618806283267,233,HTTP Request,200,OK,Thread Group 1-4,text,true,,449,169,2,2,https://petstore.swagger.io/v2/store/order/7,233,0,0
+1618806283484,276,HTTP Request,200,OK,Thread Group 1-5,text,true,,449,169,2,2,https://petstore.swagger.io/v2/store/order/7,276,0,0
+1618806283503,258,HTTP Request,200,OK,Thread Group 1-4,text,false,"Value expected to match regexp '9', but it did not match: '6'",409,172,2,2,https://petstore.swagger.io/v2/store/inventory/,258,0,0
+1618806283763,218,HTTP Request,200,OK,Thread Group 1-5,text,false,"Value expected to match regexp '9', but it did not match: '6'",409,172,1,1,https://petstore.swagger.io/v2/store/inventory/,218,0,0
+1618806302374,947,HTTP Request,200,OK,Thread Group 1-1,text,true,,462,324,5,5,https://petstore.swagger.io/v2/store/order,947,0,718
+1618806302579,886,HTTP Request,200,OK,Thread Group 1-2,text,true,,462,324,5,5,https://petstore.swagger.io/v2/store/order,886,0,672
+1618806303323,231,HTTP Request,200,OK,Thread Group 1-1,text,true,,449,169,5,5,https://petstore.swagger.io/v2/store/order/7,230,0,0
+1618806303468,212,HTTP Request,200,OK,Thread Group 1-2,text,true,,449,169,5,5,https://petstore.swagger.io/v2/store/order/7,212,0,0
+1618806302779,937,HTTP Request,200,OK,Thread Group 1-3,text,true,,462,324,5,5,https://petstore.swagger.io/v2/store/order,937,0,711
+1618806303554,225,HTTP Request,200,OK,Thread Group 1-1,text,true,,409,172,5,5,https://petstore.swagger.io/v2/store/inventory/,225,0,0
+1618806303681,214,HTTP Request,200,OK,Thread Group 1-2,text,true,,409,172,4,4,https://petstore.swagger.io/v2/store/inventory/,214,0,0
+1618806303717,230,HTTP Request,200,OK,Thread Group 1-3,text,true,,449,169,3,3,https://petstore.swagger.io/v2/store/order/7,230,0,0
+1618806302978,975,HTTP Request,200,OK,Thread Group 1-4,text,true,,462,324,3,3,https://petstore.swagger.io/v2/store/order,975,0,740
+1618806303178,897,HTTP Request,200,OK,Thread Group 1-5,text,true,,462,324,3,3,https://petstore.swagger.io/v2/store/order,897,0,676
+1618806303948,237,HTTP Request,200,OK,Thread Group 1-3,text,true,,409,172,3,3,https://petstore.swagger.io/v2/store/inventory/,236,0,0
+1618806303954,250,HTTP Request,200,OK,Thread Group 1-4,text,true,,449,169,2,2,https://petstore.swagger.io/v2/store/order/7,249,0,0
+1618806304075,405,HTTP Request,200,OK,Thread Group 1-5,text,true,,449,169,2,2,https://petstore.swagger.io/v2/store/order/7,403,0,0
+1618806304206,276,HTTP Request,200,OK,Thread Group 1-4,text,true,,409,172,2,2,https://petstore.swagger.io/v2/store/inventory/,275,0,0
+1618806304482,283,HTTP Request,200,OK,Thread Group 1-5,text,true,,409,172,1,1,https://petstore.swagger.io/v2/store/inventory/,282,0,0
